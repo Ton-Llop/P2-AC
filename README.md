@@ -10,4 +10,4 @@ Implementación de predictor Alloyed
 ---
 
 ## Evaluación
-nota final  7/10.
+Nota final  7/10.
